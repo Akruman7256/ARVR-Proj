@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4deca87cb459d1642ac8f734856ca84e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/DemoScene/Standard Assets/Editor/ImageEffects/BloomAndFlaresEditor.cs
+  uploadId: 324664

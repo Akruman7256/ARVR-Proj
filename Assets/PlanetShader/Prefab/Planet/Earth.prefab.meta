@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58bc3c564721a5046916b82ffd760350
+timeCreated: 1446836104
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49693
+  packageName: Planet Shader and Shadowing System
+  packageVersion: 1.1
+  assetPath: Assets/PlanetShader/Prefab/Planet/Earth.prefab
+  uploadId: 145749

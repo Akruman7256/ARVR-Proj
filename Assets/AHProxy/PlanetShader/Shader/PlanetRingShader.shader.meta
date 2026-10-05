@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0bedcb26456f2ca409c6a23f2718da3a
+timeCreated: 1565419418
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/Shader/PlanetRingShader.shader
+  uploadId: 324664

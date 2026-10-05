@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 74597699f47d8ae458dca68f79f1b21f
+timeCreated: 1430504573
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/DemoScene/Standard Assets/Effects/AntiAliasing/SMAA/Resources/SMAA.cginc
+  uploadId: 324664

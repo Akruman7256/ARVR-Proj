@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1a293e30462ff924ea9864c2bb699046
+timeCreated: 1446859316
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49693
+  packageName: Planet Shader and Shadowing System
+  packageVersion: 1.1
+  assetPath: Assets/PlanetShader/Shader/PlanetRings.shader
+  uploadId: 145749

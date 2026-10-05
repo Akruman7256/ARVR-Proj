@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NebulaOneSkybox
+  m_Shader: {fileID: 4800000, guid: e086d09da21dd93409bdcad9cf690b59, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _EMISSION
+  - _NEBULACOLOR0_ON
+  - _NEBULACOLOR1_ON
+  - _NEBULACOLOR2_ON
+  - _NEBULACOLOR3_ON
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DensityCube:
+        m_Texture: {fileID: 8900000, guid: d5a796e2e36f9aa41b69d3870d23f88b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffusionCube:
+        m_Texture: {fileID: 8900000, guid: 4151dd7ea09a5604aab5817d6876963b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _StarfieldCube:
+        m_Texture: {fileID: 8900000, guid: b34e4464087e53a449104885828f6460, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _DensityThresholdHigh: 0.377
+    - _DensityThresholdLow: 0
+    - _Exposure: 1
+    - _StarsBrightnesslMax: 1
+    - _StarsBrightnesslMin: 0
+    m_Colors:
+    - _AmbientTint: {r: 0, g: 0, b: 0, a: 0.6117647}
+    - _BackgroundColor: {r: 0, g: 0, b: 0, a: 1}
+    - _BasementTint: {r: 0, g: 0, b: 0, a: 0.54509807}
+    - _RipplesDistortion: {r: 0.25, g: 0, b: 0, a: 0}
+    - _RipplesTint1: {r: 0, g: 0, b: 0, a: 0.25882354}
+    - _RipplesTint2: {r: 0, g: 0, b: 0, a: 0.25490198}
+    - _StarsTint: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

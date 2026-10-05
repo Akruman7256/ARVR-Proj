@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0df0f04dbf21412589b2d8511452a917
+timeCreated: 1714148923
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311994
+  packageName: Spheres Generator
+  packageVersion: 1.0
+  assetPath: Assets/Lazy Squirrel Labs/SphereGenerator/Runtime/Generators/IcosphereGenerator.cs
+  uploadId: 735123

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3269eb249e7c4374fa533cc72f10d20e
+timeCreated: 1449952973
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49693
+  packageName: Planet Shader and Shadowing System
+  packageVersion: 1.1
+  assetPath: Assets/PlanetShader/Documentation.pdf
+  uploadId: 145749

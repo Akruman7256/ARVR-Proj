@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8cede9d277b4560a84d27bb4ded9621
+timeCreated: 1477065438
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75181
+  packageName: Farland Skies - Nebula One
+  packageVersion: 1.3.1
+  assetPath: Assets/Farland Skies/Nebula One/Demo/URP/Materials/Orbit.mat
+  uploadId: 497929

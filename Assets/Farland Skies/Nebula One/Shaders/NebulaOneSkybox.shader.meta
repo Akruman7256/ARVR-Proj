@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e086d09da21dd93409bdcad9cf690b59
+timeCreated: 1476295792
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _StarfieldCube: {fileID: 8900000, guid: b34e4464087e53a449104885828f6460, type: 3}
+  - _DensityCube: {fileID: 8900000, guid: d5a796e2e36f9aa41b69d3870d23f88b, type: 3}
+  - _DiffusionCube: {fileID: 8900000, guid: 4151dd7ea09a5604aab5817d6876963b, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75181
+  packageName: Farland Skies - Nebula One
+  packageVersion: 1.3.1
+  assetPath: Assets/Farland Skies/Nebula One/Shaders/NebulaOneSkybox.shader
+  uploadId: 497929

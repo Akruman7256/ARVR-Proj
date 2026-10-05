@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5dc7f1cfd6a98448686ee2508fe898a9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311994
+  packageName: Spheres Generator
+  packageVersion: 1.0
+  assetPath: Assets/Lazy Squirrel Labs/SphereGenerator/Samples/Display/Materials/WhiteUnlit.mat
+  uploadId: 735123

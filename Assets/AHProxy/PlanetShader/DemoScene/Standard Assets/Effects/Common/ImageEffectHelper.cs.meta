@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ab6a3f50deeee984c88794eeeb901226
+timeCreated: 1448544124
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/DemoScene/Standard Assets/Effects/Common/ImageEffectHelper.cs
+  uploadId: 324664

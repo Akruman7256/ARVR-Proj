@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ebed62f90944246459c0d42563d11485
+timeCreated: 1540517735
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/DemoScene/Materials/Planets/Mars.mat
+  uploadId: 324664

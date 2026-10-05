@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: e2baf3cae8edc4daf94c9adc2154be00
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/DemoScene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader
+  uploadId: 324664

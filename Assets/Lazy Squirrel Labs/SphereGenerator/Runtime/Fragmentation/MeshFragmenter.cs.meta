@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 8369c4196bdc4f4bac8297745270947a
+timeCreated: 1714148432
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311994
+  packageName: Spheres Generator
+  packageVersion: 1.0
+  assetPath: Assets/Lazy Squirrel Labs/SphereGenerator/Runtime/Fragmentation/MeshFragmenter.cs
+  uploadId: 735123

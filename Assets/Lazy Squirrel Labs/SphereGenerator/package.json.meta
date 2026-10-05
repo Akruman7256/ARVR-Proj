@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d390a1992d6a4c0686b1266bf8f1494
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311994
+  packageName: Spheres Generator
+  packageVersion: 1.0
+  assetPath: Assets/Lazy Squirrel Labs/SphereGenerator/package.json
+  uploadId: 735123

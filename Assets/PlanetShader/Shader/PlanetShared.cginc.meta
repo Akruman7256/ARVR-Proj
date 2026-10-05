@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6bfcadde0d64356449c16f001f273801
+timeCreated: 1447476421
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49693
+  packageName: Planet Shader and Shadowing System
+  packageVersion: 1.1
+  assetPath: Assets/PlanetShader/Shader/PlanetShared.cginc
+  uploadId: 145749

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dfcf04dadf8544f478abd03debf5db69
+timeCreated: 1477651513
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75181
+  packageName: Farland Skies - Nebula One
+  packageVersion: 1.3.1
+  assetPath: Assets/Farland Skies/Nebula One/Prefabs/SkyboxController.prefab
+  uploadId: 497929

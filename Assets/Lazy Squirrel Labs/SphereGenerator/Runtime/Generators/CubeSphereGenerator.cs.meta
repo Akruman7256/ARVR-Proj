@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d18698745b664e419210b9a5e26a6c2f
+timeCreated: 1714219082
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311994
+  packageName: Spheres Generator
+  packageVersion: 1.0
+  assetPath: Assets/Lazy Squirrel Labs/SphereGenerator/Runtime/Generators/CubeSphereGenerator.cs
+  uploadId: 735123

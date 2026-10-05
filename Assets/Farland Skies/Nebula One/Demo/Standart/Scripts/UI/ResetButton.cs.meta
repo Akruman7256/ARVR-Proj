@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0ed3fb514a887fc4db571ac60cbd8d23
+timeCreated: 1472218691
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75181
+  packageName: Farland Skies - Nebula One
+  packageVersion: 1.3.1
+  assetPath: Assets/Farland Skies/Nebula One/Demo/Standart/Scripts/UI/ResetButton.cs
+  uploadId: 497929

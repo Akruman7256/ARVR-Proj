@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 9ad381ed8492840ab9f165df743e4826
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/DemoScene/Standard Assets/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader
+  uploadId: 324664

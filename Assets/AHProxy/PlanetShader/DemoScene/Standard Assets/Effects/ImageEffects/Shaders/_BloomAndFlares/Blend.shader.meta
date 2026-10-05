@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 53b3960ee3d3d4a5caa8d5473d120187
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/DemoScene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader
+  uploadId: 324664

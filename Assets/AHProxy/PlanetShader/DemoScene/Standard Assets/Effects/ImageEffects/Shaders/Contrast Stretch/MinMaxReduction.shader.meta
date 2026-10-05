@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 57b33a14b6d5347c5a85c36f6cb3b280
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/DemoScene/Standard Assets/Effects/ImageEffects/Shaders/Contrast
+    Stretch/MinMaxReduction.shader
+  uploadId: 324664

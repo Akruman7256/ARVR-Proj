@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 459fe69d2f6d74ddb92f04dbf45a866b
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/DemoScene/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader
+  uploadId: 324664

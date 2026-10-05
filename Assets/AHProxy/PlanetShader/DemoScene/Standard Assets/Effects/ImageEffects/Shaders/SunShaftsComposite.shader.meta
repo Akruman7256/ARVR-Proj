@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d3b1c8c1036784176946f5cfbfb7fe4c
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/DemoScene/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader
+  uploadId: 324664

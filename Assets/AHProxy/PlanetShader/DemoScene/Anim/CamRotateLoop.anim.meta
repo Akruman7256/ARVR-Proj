@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 57b9d7a9be9557a41ae2724aa2829bef
+timeCreated: 1540524148
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/DemoScene/Anim/CamRotateLoop.anim
+  uploadId: 324664

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 131de6e93671c4660a3ec9d88c192a05
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311994
+  packageName: Spheres Generator
+  packageVersion: 1.0
+  assetPath: Assets/Lazy Squirrel Labs/SphereGenerator/Samples/Display/Materials/DarkBackground.mat
+  uploadId: 735123

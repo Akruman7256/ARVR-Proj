@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 703b2ef54ba1ee242a3a2edc38004682
+timeCreated: 1446821050
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49693
+  packageName: Planet Shader and Shadowing System
+  packageVersion: 1.1
+  assetPath: Assets/PlanetShader/Material/Planets/Earth.mat
+  uploadId: 145749

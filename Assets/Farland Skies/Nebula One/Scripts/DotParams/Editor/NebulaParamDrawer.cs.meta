@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 67ab7dd7750583847956a8528727e31c
+timeCreated: 1474217580
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75181
+  packageName: Farland Skies - Nebula One
+  packageVersion: 1.3.1
+  assetPath: Assets/Farland Skies/Nebula One/Scripts/DotParams/Editor/NebulaParamDrawer.cs
+  uploadId: 497929

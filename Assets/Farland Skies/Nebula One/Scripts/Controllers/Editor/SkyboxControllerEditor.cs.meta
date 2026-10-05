@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 18bdffd407f7789449ddfb29998f8781
+timeCreated: 1474220084
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75181
+  packageName: Farland Skies - Nebula One
+  packageVersion: 1.3.1
+  assetPath: Assets/Farland Skies/Nebula One/Scripts/Controllers/Editor/SkyboxControllerEditor.cs
+  uploadId: 497929

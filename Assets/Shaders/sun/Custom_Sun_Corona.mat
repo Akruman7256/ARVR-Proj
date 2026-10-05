@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_Sun_Corona
+  m_Shader: {fileID: 4800000, guid: ae042678d7a8a814e8ea0e31d4556ec7, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _InnerFalloff: 30
+    - _InnerRadius: 0.554
+    - _InnerStrength: 0.94
+    - _Intensity: 3.15
+    - _OuterFalloff: 7.42
+    - _OuterStrength: 0.36
+    - _StreamerAmount: 0.717
+    - _StreamerFreq: 2.5
+    - _StreamerSharpness: 2.5
+    - _StreamerSpeed: 0.08
+    m_Colors:
+    - _InnerColor: {r: 0.990566, g: 0.990566, b: 0.990566, a: 1}
+    - _OuterColor: {r: 1, g: 0.84355724, b: 0.28773582, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

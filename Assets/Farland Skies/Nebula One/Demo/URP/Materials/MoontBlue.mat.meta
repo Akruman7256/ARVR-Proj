@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8f1b3f763c4490d8e0be6703a456d66
+timeCreated: 1476636593
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75181
+  packageName: Farland Skies - Nebula One
+  packageVersion: 1.3.1
+  assetPath: Assets/Farland Skies/Nebula One/Demo/URP/Materials/MoontBlue.mat
+  uploadId: 497929

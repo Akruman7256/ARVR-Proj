@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 543a72c43ae674441b36c43b80402166
+timeCreated: 1565420072
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/Shader/PlanetShaderHi.shader
+  uploadId: 324664

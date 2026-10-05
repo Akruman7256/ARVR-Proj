@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 160570cdc95dd244385d47c4bfac56ab
+timeCreated: 1447830312
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49693
+  packageName: Planet Shader and Shadowing System
+  packageVersion: 1.1
+  assetPath: Assets/PlanetShader/Prefab/Planet/TemplatePlanet.prefab
+  uploadId: 145749

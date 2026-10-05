@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1000010709406708
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4000013700631110}
+  - component: {fileID: 114000012295763348}
+  m_Layer: 0
+  m_Name: SkyboxAnimator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4000013700631110
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010709406708}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000012295763348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010709406708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a93c4a480e59ed64f9cf03fb906ee740, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _rotationSpeed: {x: 1, y: 1, z: 1}
+  _distortionSpeed: 1
+  _maxDistortionValue: 0.25
+  _backgroundParamsList:
+    Params:
+    - Time: 0
+      BackgroundColor: {r: 0, g: 0, b: 0, a: 1}
+    - Time: 7
+      BackgroundColor: {r: 0, g: 0, b: 0, a: 1}
+    - Time: 10
+      BackgroundColor: {r: 0.05735294, g: 0.05882353, b: 0.047058824, a: 1}
+    - Time: 17
+      BackgroundColor: {r: 0.05735294, g: 0.05882353, b: 0.047058824, a: 1}
+    - Time: 20
+      BackgroundColor: {r: 0.006684486, g: 0.19050805, b: 0.29411766, a: 1}
+    - Time: 27
+      BackgroundColor: {r: 0.006684486, g: 0.19050805, b: 0.29411766, a: 1}
+    - Time: 30
+      BackgroundColor: {r: 0.083528094, g: 0.09678652, b: 0.118, a: 1}
+    - Time: 37
+      BackgroundColor: {r: 0.083528094, g: 0.09678652, b: 0.118, a: 1}
+    - Time: 40
+      BackgroundColor: {r: 0.03529412, g: 0.015686275, b: 0.03529412, a: 1}
+    - Time: 47
+      BackgroundColor: {r: 0.03529412, g: 0.015686275, b: 0.03529412, a: 1}
+    - Time: 50
+      BackgroundColor: {r: 0, g: 0.05392157, b: 0.21568628, a: 1}
+    - Time: 57
+      BackgroundColor: {r: 0, g: 0.054901965, b: 0.21568629, a: 1}
+    - Time: 60
+      BackgroundColor: {r: 0, g: 0, b: 0, a: 1}
+    - Time: 67
+      BackgroundColor: {r: 0, g: 0, b: 0, a: 1}
+    - Time: 70
+      BackgroundColor: {r: 0.09803922, g: 0.027652085, b: 0.0125691295, a: 1}
+    - Time: 77
+      BackgroundColor: {r: 0.09803922, g: 0.027652085, b: 0.0125691295, a: 1}
+    - Time: 80
+      BackgroundColor: {r: 0, g: 0, b: 0, a: 1}
+    - Time: 87
+      BackgroundColor: {r: 0, g: 0, b: 0, a: 1}
+    - Time: 90
+      BackgroundColor: {r: 0.058823533, g: 0.04705883, b: 0.14509805, a: 1}
+    - Time: 97
+      BackgroundColor: {r: 0.058823533, g: 0.04705883, b: 0.14509805, a: 1}
+  _starsParamsList:
+    Params:
+    - Time: 0
+      Tint: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      BrightnessMin: 0
+      BrightnessMax: 1
+    - Time: 7
+      Tint: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      BrightnessMin: 0
+      BrightnessMax: 1
+    - Time: 10
+      Tint: {r: 1, g: 1, b: 1, a: 1}
+      BrightnessMin: 0
+      BrightnessMax: 1
+    - Time: 17
+      Tint: {r: 1, g: 1, b: 1, a: 1}
+      BrightnessMin: 0
+      BrightnessMax: 1
+    - Time: 20
+      Tint: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      BrightnessMin: 0
+      BrightnessMax: 1
+    - Time: 37
+      Tint: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      BrightnessMin: 0
+      BrightnessMax: 1
+    - Time: 40
+      Tint: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      BrightnessMin: 0.15
+      BrightnessMax: 0.6
+    - Time: 47
+      Tint: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      BrightnessMin: 0.15
+      BrightnessMax: 0.6
+    - Time: 50
+      Tint: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      BrightnessMin: 0
+      BrightnessMax: 1
+    - Time: 57
+      Tint: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      BrightnessMin: 0
+      BrightnessMax: 1
+    - Time: 60
+      Tint: {r: 1, g: 1, b: 1, a: 1}
+      BrightnessMin: 0
+      BrightnessMax: 1
+    - Time: 67
+      Tint: {r: 1, g: 1, b: 1, a: 1}
+      BrightnessMin: 0
+      BrightnessMax: 1
+    - Time: 70
+      Tint: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      BrightnessMin: 0
+      BrightnessMax: 1
+  _nebulaParamsList:
+    Params:
+    - Time: 0
+      BackgroundTint: {r: 0, g: 0.627451, b: 1, a: 0.02745098}
+      BasementTint: {r: 0, g: 0.627451, b: 1, a: 0.49803922}
+      RipplesTint1: {r: 0, g: 0.627451, b: 1, a: 0.25882354}
+      RipplesTint2: {r: 0.31764707, g: 0.14901961, b: 0.3372549, a: 0.31764707}
+    - Time: 7
+      BackgroundTint: {r: 0, g: 0.627451, b: 1, a: 0.02745098}
+      BasementTint: {r: 0, g: 0.627451, b: 1, a: 0.49803922}
+      RipplesTint1: {r: 0, g: 0.627451, b: 1, a: 0.25882354}
+      RipplesTint2: {r: 0.31764707, g: 0.14901961, b: 0.3372549, a: 0.31764707}
+    - Time: 10
+      BackgroundTint: {r: 0.2392157, g: 0.25882354, b: 0.003921569, a: 0.091}
+      BasementTint: {r: 0.2784314, g: 0.36078432, b: 0, a: 0.553}
+      RipplesTint1: {r: 0.28627452, g: 0.5529412, b: 0, a: 0.222}
+      RipplesTint2: {r: 0, g: 0.40000004, b: 0.44705886, a: 0.359}
+    - Time: 17
+      BackgroundTint: {r: 0.2392157, g: 0.25882354, b: 0.003921569, a: 0.091}
+      BasementTint: {r: 0.2784314, g: 0.36078432, b: 0, a: 0.553}
+      RipplesTint1: {r: 0.28627452, g: 0.5529412, b: 0, a: 0.222}
+      RipplesTint2: {r: 0, g: 0.40000004, b: 0.44705886, a: 0.359}
+    - Time: 20
+      BackgroundTint: {r: 0.007843138, g: 0.29411766, b: 0.34509805, a: 0.147}
+      BasementTint: {r: 0, g: 1, b: 0.9929075, a: 0.6862745}
+      RipplesTint1: {r: 1, g: 0.62919605, b: 0.30299997, a: 0.39215687}
+      RipplesTint2: {r: 0.526, g: 0.19205701, b: 0.083634, a: 0.39215687}
+    - Time: 27
+      BackgroundTint: {r: 0.007843138, g: 0.29411766, b: 0.34509805, a: 0.147}
+      BasementTint: {r: 0, g: 1, b: 0.9929075, a: 0.6862745}
+      RipplesTint1: {r: 1, g: 0.62919605, b: 0.30299997, a: 0.39215687}
+      RipplesTint2: {r: 0.526, g: 0.19205701, b: 0.083634, a: 0.39215687}
+    - Time: 30
+      BackgroundTint: {r: 0.24705884, g: 0.28627452, b: 0.34901962, a: 0.091}
+      BasementTint: {r: 0.24705884, g: 0.1254902, b: 0.10980393, a: 0.553}
+      RipplesTint1: {r: 0.43137255, g: 0.23140353, b: 0.15224913, a: 0.316}
+      RipplesTint2: {r: 0.020592164, g: 0.14691044, b: 0.34901965, a: 0.178}
+    - Time: 37
+      BackgroundTint: {r: 0.24705884, g: 0.28627452, b: 0.34901962, a: 0.091}
+      BasementTint: {r: 0.24705884, g: 0.1254902, b: 0.10980393, a: 0.553}
+      RipplesTint1: {r: 0.43137255, g: 0.23140353, b: 0.15224913, a: 0.316}
+      RipplesTint2: {r: 0.020592164, g: 0.14691044, b: 0.34901965, a: 0.178}
+    - Time: 40
+      BackgroundTint: {r: 0.35686275, g: 0.054901965, b: 0.16862746, a: 0.159}
+      BasementTint: {r: 0.56078434, g: 0.08235294, b: 0.21568629, a: 0.49803922}
+      RipplesTint1: {r: 0.14901961, g: 0.397, b: 0.7568628, a: 0.29411766}
+      RipplesTint2: {r: 0.6509804, g: 0.27450982, b: 0.49019608, a: 0.25490198}
+    - Time: 47
+      BackgroundTint: {r: 0.35686275, g: 0.054901965, b: 0.16862746, a: 0.159}
+      BasementTint: {r: 0.56078434, g: 0.08235294, b: 0.21568629, a: 0.49803922}
+      RipplesTint1: {r: 0.14901961, g: 0.397, b: 0.7568628, a: 0.29411766}
+      RipplesTint2: {r: 0.6509804, g: 0.27450982, b: 0.49019608, a: 0.25490198}
+    - Time: 50
+      BackgroundTint: {r: 0.08627451, g: 0.1137255, b: 0.14901961, a: 0.091}
+      BasementTint: {r: 0.323569, g: 0.41301715, b: 0.659, a: 0.553}
+      RipplesTint1: {r: 0.078431375, g: 0.18823531, b: 0.4901961, a: 0.65}
+      RipplesTint2: {r: 0.8235295, g: 0, b: 0, a: 0.109}
+    - Time: 57
+      BackgroundTint: {r: 0.08627451, g: 0.1137255, b: 0.14901961, a: 0.091}
+      BasementTint: {r: 0.3254902, g: 0.41176474, b: 0.65882355, a: 0.553}
+      RipplesTint1: {r: 0.078431375, g: 0.1882353, b: 0.49019608, a: 0.64705884}
+      RipplesTint2: {r: 0.8235294, g: 0, b: 0, a: 0.105882354}
+    - Time: 60
+      BackgroundTint: {r: 0.20392159, g: 0.10980393, b: 0.16078432, a: 0.153}
+      BasementTint: {r: 0.503, g: 0, b: 0, a: 0.422}
+      RipplesTint1: {r: 0.96862745, g: 0.31764707, b: 0.27058825, a: 0.19607843}
+      RipplesTint2: {r: 1, g: 0.70980394, b: 0, a: 0.197}
+    - Time: 67
+      BackgroundTint: {r: 0.20392159, g: 0.10980393, b: 0.16078432, a: 0.153}
+      BasementTint: {r: 0.503, g: 0, b: 0, a: 0.422}
+      RipplesTint1: {r: 0.96862745, g: 0.31764707, b: 0.27058825, a: 0.19607843}
+      RipplesTint2: {r: 1, g: 0.70980394, b: 0, a: 0.197}
+    - Time: 70
+      BackgroundTint: {r: 0.3372549, g: 0.34117648, b: 0.15294118, a: 0.039215688}
+      BasementTint: {r: 0.077877, g: 0.509, b: 0.23882964, a: 0.553}
+      RipplesTint1: {r: 0.47128868, g: 0.5882353, b: 0.12687431, a: 0.19607843}
+      RipplesTint2: {r: 0.897, g: 0.67275, b: 0, a: 0.21568628}
+    - Time: 77
+      BackgroundTint: {r: 0.3372549, g: 0.34117648, b: 0.15294118, a: 0.039215688}
+      BasementTint: {r: 0.077877, g: 0.509, b: 0.23882964, a: 0.553}
+      RipplesTint1: {r: 0.47128868, g: 0.5882353, b: 0.12687431, a: 0.19607843}
+      RipplesTint2: {r: 0.897, g: 0.67275, b: 0, a: 0.21568628}
+    - Time: 80
+      BackgroundTint: {r: 0.46274513, g: 0.24313727, b: 0.3137255, a: 0.053}
+      BasementTint: {r: 0.56078434, g: 0.18823531, b: 0.10588236, a: 0.553}
+      RipplesTint1: {r: 0.9450981, g: 0.70980394, b: 0.38823533, a: 0.116}
+      RipplesTint2: {r: 0.26020762, g: 0.30524358, b: 0.5529412, a: 0.33333334}
+    - Time: 87
+      BackgroundTint: {r: 0.46274513, g: 0.24313727, b: 0.3137255, a: 0.053}
+      BasementTint: {r: 0.56078434, g: 0.18823531, b: 0.10588236, a: 0.553}
+      RipplesTint1: {r: 0.9450981, g: 0.70980394, b: 0.38823533, a: 0.116}
+      RipplesTint2: {r: 0.26020762, g: 0.30524358, b: 0.5529412, a: 0.33333334}
+    - Time: 90
+      BackgroundTint: {r: 0.15294118, g: 0.15686275, b: 0.34117648, a: 0.053}
+      BasementTint: {r: 0.34835792, g: 0.09709199, b: 0.37199998, a: 0.553}
+      RipplesTint1: {r: 0.41311696, g: 0.42370954, b: 0.92156863, a: 0.39215687}
+      RipplesTint2: {r: 0.8039216, g: 0.36735037, b: 0.25221068, a: 0.33333334}
+    - Time: 97
+      BackgroundTint: {r: 0.15294118, g: 0.15686275, b: 0.34117648, a: 0.053}
+      BasementTint: {r: 0.34835792, g: 0.09709199, b: 0.37199998, a: 0.553}
+      RipplesTint1: {r: 0.41311696, g: 0.42370954, b: 0.92156863, a: 0.39215687}
+      RipplesTint2: {r: 0.8039216, g: 0.36735037, b: 0.25221068, a: 0.33333334}
+  _framesInterval: 2

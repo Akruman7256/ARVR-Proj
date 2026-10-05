@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a8268f966bae7646ab0d38ef46fd1fd
+timeCreated: 1446909616
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49693
+  packageName: Planet Shader and Shadowing System
+  packageVersion: 1.1
+  assetPath: Assets/PlanetShader/Material/Skybox.mat
+  uploadId: 145749

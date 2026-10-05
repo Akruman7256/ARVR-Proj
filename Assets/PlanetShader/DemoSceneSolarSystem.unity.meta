@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1094cf70e1531a45b1a1995d6e16055
+timeCreated: 1446866334
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49693
+  packageName: Planet Shader and Shadowing System
+  packageVersion: 1.1
+  assetPath: Assets/PlanetShader/DemoSceneSolarSystem.unity
+  uploadId: 145749

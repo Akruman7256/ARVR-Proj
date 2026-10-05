@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d95ba533d773d140bb3d8f54c5ec072
+timeCreated: 1540516272
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131872
+  packageName: Customizable Planet Shaders
+  packageVersion: 1.2
+  assetPath: Assets/AHProxy/PlanetShader/DemoScene/DemoScene.unity
+  uploadId: 324664

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 332ca1a4f9bc4f74b94f36a6ced17ab0
+timeCreated: 1449947597
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49693
+  packageName: Planet Shader and Shadowing System
+  packageVersion: 1.1
+  assetPath: Assets/PlanetShader/Material/Planets/AlienPlanetRing.mat
+  uploadId: 145749

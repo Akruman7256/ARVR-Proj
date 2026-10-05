@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c6891401c4864ef7a0693e2a13b0b356
+timeCreated: 1714304473
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311994
+  packageName: Spheres Generator
+  packageVersion: 1.0
+  assetPath: Assets/Lazy Squirrel Labs/SphereGenerator/Runtime/Generators/UVSphereGenerator.cs
+  uploadId: 735123

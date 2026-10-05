@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1000013154561054
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4000011985611204}
+  - component: {fileID: 114000011685073128}
+  m_Layer: 0
+  m_Name: SkyboxController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4000011985611204
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000013154561054}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000011685073128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000013154561054}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79b8f1170e8f464fb62876752650580, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SkyboxMaterial: {fileID: 2100000, guid: bb03635451bf13849b0ed0e11c767c24, type: 2}
+  _starfieldCubemap: {fileID: 8900000, guid: b34e4464087e53a449104885828f6460, type: 3}
+  _starfieldRotation: {x: 0, y: 0, z: 0}
+  _backgroundColor: {r: 0, g: 0, b: 0, a: 1}
+  _starsTint: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+  _starsBrightnessMin: 0
+  _starsBrightnessMax: 1
+  _ambientTint: {r: 0, g: 0, b: 0, a: 0.6117647}
+  _basementTint: {r: 0, g: 0, b: 0, a: 0.54509807}
+  _ripplesTint1: {r: 0, g: 0, b: 0, a: 0.25882354}
+  _ripplesTint2: {r: 0, g: 0, b: 0, a: 0.25490198}
+  _densityCubemap: {fileID: 8900000, guid: d5a796e2e36f9aa41b69d3870d23f88b, type: 3}
+  _densityRotation: {x: 0, y: 0, z: 0}
+  _densityThresholdLow: 0.4
+  _densityThresholdHigh: 0.8
+  _diffusionCubemap: {fileID: 8900000, guid: 4151dd7ea09a5604aab5817d6876963b, type: 3}
+  _ripplesDistortion: {x: 0.25, y: 0, z: 0}
+  _exposure: 1

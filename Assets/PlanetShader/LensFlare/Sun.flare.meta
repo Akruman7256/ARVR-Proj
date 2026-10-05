@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: eb7f2fdf6cf18496a8300de97efb5eac
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49693
+  packageName: Planet Shader and Shadowing System
+  packageVersion: 1.1
+  assetPath: Assets/PlanetShader/LensFlare/Sun.flare
+  uploadId: 145749

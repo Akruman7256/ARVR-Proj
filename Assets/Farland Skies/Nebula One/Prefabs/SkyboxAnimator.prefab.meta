@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc6d395b504b21a4a8dfec3bf685f15d
+timeCreated: 1477651517
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75181
+  packageName: Farland Skies - Nebula One
+  packageVersion: 1.3.1
+  assetPath: Assets/Farland Skies/Nebula One/Prefabs/SkyboxAnimator.prefab
+  uploadId: 497929

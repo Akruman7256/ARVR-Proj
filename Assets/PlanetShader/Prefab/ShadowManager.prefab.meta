@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5153de35c68dc2c4c87a2162b164e609
+timeCreated: 1447077573
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49693
+  packageName: Planet Shader and Shadowing System
+  packageVersion: 1.1
+  assetPath: Assets/PlanetShader/Prefab/ShadowManager.prefab
+  uploadId: 145749

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 349ebbfa85ed38443b215d3e6dd130e8
+timeCreated: 1447090007
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49693
+  packageName: Planet Shader and Shadowing System
+  packageVersion: 1.1
+  assetPath: Assets/PlanetShader/Material/Planets/Alien.mat
+  uploadId: 145749
